@@ -1,0 +1,12 @@
+#main{width:1200px; height:600px; background-color:red; margin:auto;}
+#header{background-color:yellow; width:1200px; height:100px; color:blue; font-size:60px;}
+#mid{background-color:black; width:1200px; height:400px;}
+#mid1{background-color:blue; width:300px; height:400px; float:left;}
+#mid11{background-color:pink; width:300px; height:200px;}
+#mid12{background-color:aqua; width:300px; height:200px;}
+#mid2{background-color:purple; width:600px; height:400px; float:left;}
+#mid3{background-color:rgb(0, 102, 128); width:300px; height:400px; float:left;}
+#mid31{background-color:orange; width:300px; height:133.33px}
+#mid32{background-color:white; width:300px; height:133.33px}
+#mid33{background-color:darkgreen; width:300px; height:133.33px}
+#foot{background-color:hotpink; width:1200px; height:100px;}
